@@ -1,4 +1,5 @@
 build/
+
 # Created by https://www.gitignore.io/api/fortran
 # Edit at https://www.gitignore.io/?templates=fortran
 
@@ -37,3 +38,4 @@ build/
 *.app
 
 # End of https://www.gitignore.io/api/fortran
+
