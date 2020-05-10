@@ -10,7 +10,7 @@
 !    Outputs: vgrid.in; vgrid_master.out;  transect*.out; debug outputs (fort*)
 !    Use plot_VQS.m to viz vgrid_master.out; transect*.out
 !    ifort -O2 -mcmodel=medium -CB -Bstatic -o gen_vqs_2.exe ../UtilLib/schism_geometry.f90 gen_vqs_2.f90
-
+!    gfortran -O2 -mcmodel=medium  -Bstatic -o gen_vqs_2.exe ../UtilLib/schism_geometry.f90 gen_vqs_2.f90
       use schism_geometry_mod
       implicit real*8(a-h,o-z)
       integer, allocatable :: elnode(:,:),elside(:,:),kbp0(:),kbp(:),ic3(:,:),isdel(:,:),isidenode(:,:),m0(:)
