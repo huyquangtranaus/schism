@@ -16,6 +16,8 @@
 
 # E
 
+* eta_m0(i) !mean elev at each node
+
 # F
 
 # G
@@ -24,7 +26,16 @@
 
 # I
 
+* iETtype(j): b.c flags for elevation
+* iFLtype(j): b.c flags for velocity 
+* iTEtype(j): b.c flags for temperature
+* iSAtype(j): b.c flags for salinity
+* iTRtype(j): b.c flags for tracer
+
 # J
+
+* jspc(k): tidal species (0: declinational; 1: diurnal; 2: semi-diurnal)
+* 
 
 # K
 
@@ -35,6 +46,7 @@
 # N
 
 * neta (j): off nodes on the boundary segment j (e.g. see manual page 66 section bctides.in)
+* nbfr !total # of tidal boundary forcing frequencies
 
 # O
 
@@ -48,6 +60,11 @@
 
 # T
 
+* talpha: tidal constituent name
+* tamp(k): amplitude constants
+* tfreq(k): angular frequency
+* tnf(k): nodal factor
+* tear(k): earth equilibrium argument (in degrees)
 ### trobc
 
 
@@ -55,6 +72,8 @@
 # U
 
 # V
+
+* vn_mean !mean normal velocity
 
 # W
 
