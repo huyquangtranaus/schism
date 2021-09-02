@@ -34,6 +34,8 @@
 
 # N
 
+* neta (j): off nodes on the boundary segment j (e.g. see manual page 66 section bctides.in)
+
 # O
 
 # P
