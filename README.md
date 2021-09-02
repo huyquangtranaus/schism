@@ -1,4 +1,4 @@
-SCHISM
+## SCHISM
 Semi-implicit Cross-scale Hydroscience Integrated System Model
 
 Build instructions may be found on the SCHISM wiki at schism.wiki
