@@ -33,7 +33,7 @@
 * iTRtype(j): b.c flags for tracer
 * indvel : Control the balance between numerical diffusion and dispersion?
 _ indvel=0, conformal linear shape function is used; if indvel=1, averaging method is used.
- 
+ *This text is italicized*
 * ihorcon: Control the balance between numerical diffusion and dispersion?
 
 (ihorcon =0 means horizontal viscosity term=0 see Hydro/schism_init.F90:331)
