@@ -36,7 +36,7 @@
 
 * ihorcon: Control the balance between numerical diffusion and dispersion?
 
-(ihorcon =0 means horizontal viscosity term=0 see Hydro/schism_init.F90:331)
+  *    * ihorcon =0 means horizontal viscosity term=0 see Hydro/schism_init.F90:331*
 
 # J
 
