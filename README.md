@@ -1,7 +1,7 @@
 ## SCHISM: Semi-implicit Cross-scale Hydroscience Integrated System Model
-
+#### This  readme file also contains some tips for troubleshooting 
 #### ----------- This forked directory is maintained by Huy Quang Tran -----------
-#### This readme file also contains some tips for troubleshooting 
+
 #### [1]. Notes on msource.th:
 * The units in this file are values in concentration dimension (e.g. psu etc), see Hydro/misc_subs.F90:580)
 ## VARIABLE LIST 
