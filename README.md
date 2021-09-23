@@ -1,7 +1,7 @@
 ## SCHISM: Semi-implicit Cross-scale Hydroscience Integrated System Model
 
 #### ----------- This forked directory is maintained by Huy Quang Tran -----------
-
+#### This readme file also contains some tips for troubleshooting 
 
 ## VARIABLE LIST
 
